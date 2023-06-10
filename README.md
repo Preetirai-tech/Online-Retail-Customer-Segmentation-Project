@@ -12,4 +12,4 @@ This project focuses on performing customer segmentation for an online retail bu
 - Incorporated DBSCAN algorithm for identifying dense regions in the data and handling noisy data points effectively.
 
 ## Dataset
-The dataset used for this project was provided by Almabetter. It contains transactional data from an online retail store, including essential attributes such as customer IDs, product codes, quantities, and purchase dates. This rich dataset enabled robust analysis and accurate customer segmentation.
+The dataset used for this project was provided by **Almabetter**. It contains transactional data from an online retail store, including essential attributes such as customer IDs, InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice and Country. This rich dataset enabled robust analysis and accurate customer segmentation.
