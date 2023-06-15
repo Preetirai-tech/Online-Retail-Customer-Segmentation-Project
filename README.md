@@ -2,6 +2,8 @@
 <h1 align="center"> Online-Retail-Customer-Segmentation </h1>
 <h3 align="center"> AlmaBetter Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
+![Alt Text](https://camo.githubusercontent.com/8543f7839329a64b88533176de6dfb44f69e90f628abe4c9ce50f156ccbc0593/68747470733a2f2f736f75726369666963636f6e73756c74696e672e636f2e756b2f77702d636f6e74656e742f75706c6f6164732f696d61676531392e676966)
+
 ## Description
 This project focuses on performing customer segmentation for an online retail business. By applying various clustering techniques to the customer data, we aim to identify distinct customer segments based on their purchasing behavior, preferences, and demographics. This segmentation analysis can provide valuable insights for targeted marketing strategies, personalized recommendations, and improved customer satisfaction.
 
